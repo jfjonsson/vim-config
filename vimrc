@@ -177,3 +177,8 @@ nmap ,b :NERDTreeFind<CR>
 " Configuration for indentline
 let g:indentLine_enabled = 0
 
+" Remove menubar, toolbars and scrollbars from gvim
+:set guioptions-=m
+:set guioptions-=T
+:set guioptions-=r
+:set guioptions-=L
