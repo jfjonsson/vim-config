@@ -26,7 +26,7 @@ Plugin 'guileen/vim-node-dict'
 Plugin 'kristijanhusak/vim-hybrid-material'
 Plugin 'h3xx/vim-late_evening'
 Plugin 'znake/znake-vim'
-Plugin 'jnurmine/Zenburn'
+Plugin 'nanotech/jellybeans.vim'
 call vundle#end()
 
 filetype plugin indent on
